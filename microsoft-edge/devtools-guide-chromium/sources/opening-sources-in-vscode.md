@@ -36,7 +36,7 @@ After you select a root folder, you need to grant DevTools full access to the fo
 :::image type="content" source="../media/experiment-sources-in-code-allow-access.msft.png" alt-text="DevTools asking to get access to the folder." lightbox="../media/experiment-sources-in-code-allow-access.msft.png":::
 
 After you grant permission, the folder you select is added as a Workspace in DevTools, in the **Filesystem** tab of the **Sources** tool.  This means that any file you edit in DevTools now opens in Microsoft Visual Studio Code instead of in the Sources tool. As an indicator, we show a `linked` icon next to the file name.  In this example, we'll select the `base.css` link in the **Styles** tool.
-
+asd
 :::image type="content" source="../media/experiment-sources-in-code-selecting-link.msft.png" alt-text="Selecting a file link in the Styles tool opens the file in Visual Studio Code." lightbox="../media/experiment-sources-in-code-selecting-link.msft.png":::
 
 DevTools opens an instance of Visual Studio Code and shows all the files in the root folder.  DevTools also opens the file you've selected, scrolled to the correct line of the CSS selector.
